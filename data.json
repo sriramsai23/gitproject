@@ -1,0 +1,22 @@
+{
+"cards":[{
+        "img":"images/mobile.jpg",
+        "name":"vivo",
+        "rate":"10000",
+        "offer":"7500",
+        "button":"view"
+    },{
+        "img":"images/mobile1.jpg",
+        "name":"nokia",
+        "rate":"20000",
+        "offer":"17500",
+        "button":"view"
+    },{
+        "img":"images/mobile2.jpg",
+        "name":"samsung",
+        "rate":"30000",
+        "offer":"27500",
+        "button":"view"
+    }
+   ]
+}
